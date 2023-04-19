@@ -30,7 +30,7 @@ Always consult a professional mechanic for any automotive-related concerns.**
 ### Modified "Runs Normally" Rule: 
 - The rule that asks if the engine runs normally has been modified to accept a third possible answer, "maybe", in addition to the original "yes" and "no" options. This change allows the user to provide a more nuanced response, and the system should be updated to handle the "maybe" answer in related rules.
 
-##How to Use
+## How to Use
 
 To use the updated automotive expert system, you will need the CLIPS IDE, which can be downloaded from the following link: [CLIPS 6.40](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/) 
 
